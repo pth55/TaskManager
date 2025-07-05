@@ -32,3 +32,9 @@ A modern, intuitive personal task management application that helps you organize
 [Link to deployed application]
 
 ## 🖼️ Screenshots
+
+![Login](./screenshots/1.png)
+![Dashboard](./screenshots/2.png)
+![Add Task](./screenshots/3.png)
+![Task Added](./screenshots/4.png)
+![Dark Mode](./screenshots/5.png)
